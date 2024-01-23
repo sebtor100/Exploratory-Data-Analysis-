@@ -18,13 +18,14 @@ The dataset includes the following columns:
 - `food_preparation_time`: Time (in minutes) taken by the restaurant to prepare the food
 - `delivery_time`: Time (in minutes) taken by the delivery person to deliver the food package
 
-## Setup and Libraries
-
-```python
-# Import libraries for data manipulation
-import numpy as np
-import pandas as pd
-
-# Import libraries for data visualization
-import matplotlib.pyplot as plt
-import seaborn as sns
+## Conclusion and Recommendations
+# Conclusions:
+- The top 4 restaurants (Blue Ribbon Fried Chicken, Blue Ribbon Sushi, Shake Shack, The Meatball Shop) should be prioritized for promotions and marketing efforts.
+- Popular cuisine types (American, Japanese, Italian) can be highlighted in advertisements to attract more customers.
+- Mean delivery time on weekends is slightly higher, optimization strategies can improve customer satisfaction.
+# Recommendations:
+- Collaborate with top restaurants for exclusive promotional deals.
+- Create cuisine-specific promotions based on popular cuisine types.
+- Optimize delivery processes during weekends to reduce mean delivery times.
+- Introduce special offers for high-cost orders to incentivize customers.
+- Encourage customers to provide feedback and ratings for better service quality.
